@@ -1,0 +1,268 @@
+.icons{
+	padding-top: 25px;
+	padding-right: 20px;
+	padding-left: 10px;
+	font-weight: bold;
+	color: #022F5C;
+}
+body{
+	margin: 0px;
+	padding: opx;
+}
+#myCarousel, .carousel-inner{
+	height: 500px !important;
+	width: 100% !important;
+	padding: 0px;
+	background: transparent !important;
+	margin-top: 0px !important;
+}
+#btn{
+	background-color: #022F5C;
+	border: 1px solid #022F5C;
+	border-radius: 10px;
+	padding: 5px;
+	color: white;
+}
+h3{
+	color: #022F5C;
+	width: 100%;
+}
+p{
+	color: gray;
+	width: 100%;
+}
+.carousel-caption{
+	float: right !important;
+	margin-right: 30px !important;
+	position: absolute;
+  right: 5%;
+  bottom: 20px;
+  left: 60%;
+   z-index: 10;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#div1{
+	padding: 0px;
+	margin: 0px;
+	background-color: #FDE42A;
+	color: #000;
+	height: 80px;
+	width: 100%;
+	padding-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+#btn1{
+	background-color: #022F5C;
+	color: #fff;
+	padding: 5px;
+	border: 1px solid #022F5C;
+	border-radius: 5px;
+	font-size: 15px !important; 
+}
+.icon{
+	color: #FDE42A;
+}
+.image{
+	width: 100%;
+	height: 150px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#div2{
+	background-color: #022F5C;
+	color: #fff;
+	padding: 15px;
+}
+h2,h4{
+	color: #022F5C;
+}
+#backg{
+	width: 100%;
+	background-color: #F2F2F2l
+}
+.txt{
+	width: 100%;
+	color: white;
+	margin: 0px;
+	padding-top:80px;
+}
+.txt1{
+	width: 100%;
+	color: #FDE42B;
+	margin: 0px;
+}
+#port{
+	background-color: #022A54;
+	height: 200px;
+}
+#bacg1{
+	background-color: #F2F2F2;
+}
+#news1{
+	background-color: white;
+	width: 100%;
+}
+
+#page{
+	background-color: #242424 !important;
+	color: #FFFFFF;
+}
+label{
+	font-weight: bold;
+	font-size: 20px;
+}
+#para{
+	color: lightgrey;
+	font-size: 13px;
+}
+#para1{
+	color: white;
+	font-weight: bold;
+}
+input,select{
+	background-color: #CACACA !important;
+	color: black !important;
+	border-radius: 0px !important;
+	height: 35px !important;
+}
+#gap{
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+#btn2{
+	background-color: #022F5C;
+	color: #fff;
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border: 1px solid #022F5C;
+	border-radius: 5px;
+	font-size: 15px !important; 
+	height: 35px;
+	margin-top: 2px;
+}
+#division{
+	border-left: 1px solid #346787;
+    height: 130px;
+}
+#shopbg{
+	background-color: #022F5C;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+#header{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+#para2{
+	color: #346787;
+}
+#para3{
+	color: #1D5CB2;
+}
+.icon1{
+	color: #65734A;
+	font-size: 20px !important;
+}
+.icon2{
+	color: #1D5CB2;
+	height: 5px !important;
+	width: 5px !important;
+}
+.iconone{
+	color: #65734A;
+	font-size: 17px !important;
+}
+.icontwo{
+	float: right;
+     margin-right: 0px;
+    margin-top: -35px;
+	background-color: #FDE42A;
+     position: relative;
+     z-index: 2;
+    color: #022F5C;
+	padding: 10px;	
+}
+#contactbg{
+	background-color: #022F5C;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.cont{
+	color: #ffffff;
+}
+.p1{
+	color: #1D5CB2;
+}
+#p2{
+	color: lightgrey;
+	font-size: 13px;
+}
+.p3{
+	color: white;
+	font-size: 15px;
+}
+.s1{
+	color: lightgrey;
+}
+#inp{
+	background-color: #ffffff !important;
+}
+#ss1{
+	color: #1D5CB2;
+}
+.social{
+	background-color: #ffffff;
+	color: #022F5C;
+	font-size: 20px;
+	padding: 5px;
+	margin-right: 5px;
+	border: 1px solid white;
+	border-radius: 50px;
+	margin-top: 0px !important;
+}
+#lp1{
+	color: lightgrey;
+	font-size: 13px;
+}
+#topheader{
+	background-color:#022F5C;
+	padding: 5px;
+	padding-bottom: 5px;
+	text-align: center
+}
+#select1{
+	 appearance:none;
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+	background: none !important;
+	border: 0px;
+	color: #ffffff !important;
+	padding-top: 0px !important;
+}
+.txtcolor{
+	color: #ffffff !important;
+}
+#d1{
+	padding-top: 5px;
+}
+#office{
+	background-color: #FDE42A;
+	color: #022F5C;
+}
+.select2{
+	 appearance:none;
+    -moz-appearance:none; /* Firefox */
+    -webkit-appearance:none; /* Safari and Chrome */
+	background: #FDE42A !important;
+	border: 0px;
+	color: #022F5C !important;
+	padding-top: 0px !important;
+}
+
+
